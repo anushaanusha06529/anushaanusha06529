@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @anushaanusha06529
-- 👀 I’m interested in python,sql
+- 👋 Hi, I’m Anusha
+- 👀 I’m interested in python,sql,Html,Css
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Book Recommandation System
 - 📫 How to reach me ...anushaanu03529@gmail.com
   
 
