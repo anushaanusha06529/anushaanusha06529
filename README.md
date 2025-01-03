@@ -1,3 +1,5 @@
+
+![logo](https://github.com/anushaanusha06529/anushaanusha06529/blop/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
