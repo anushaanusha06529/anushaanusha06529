@@ -1,5 +1,5 @@
 
-<img src="https://tse4.mm.bing.net/th?id=OIP.HcomLm70DUprkjHGDvMgXQHaEL&pid=Api&P=0&h=180",width:"500",height="100">
+
 <h1 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
